@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GraphQL_Domain", "GraphQL_D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GraphQL_Data", "GraphQL_Data\GraphQL_Data.csproj", "{16AFA760-3FAD-4779-8E11-8CEB32FF1AE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQL_Api", "GraphQL_Api\GraphQL_Api.csproj", "{499D5CBC-EBF3-4520-AAB1-B2C7FA15A6BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GraphQL_Api", "GraphQL_Api\GraphQL_Api.csproj", "{499D5CBC-EBF3-4520-AAB1-B2C7FA15A6BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
